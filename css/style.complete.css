@@ -11577,6 +11577,8 @@ div.dark_rounded #pp_full_res .pp_inline,div.dark_square #pp_full_res .pp_inline
         background-size: cover;
         background-attachment: scroll;
         background-color: rgba(0, 0, 0, 0);
+        -webkit-filter: hue-rotate(0deg);
+        filter: hue-rotate(0deg);
         /*background: url(../images/picture2.jpg) no-repeat scroll 50% bottom / cover  rgba(0, 0, 0, 0);*/
     }
 
