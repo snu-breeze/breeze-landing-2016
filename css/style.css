@@ -155,3 +155,16 @@ header .navbar-white a {
 	height: 100%;
 	background: none;
 }
+
+.btn-twitter
+{
+    background-color: #55acee;
+}
+.btn-facebook
+{
+    background-color: #3b5998;
+}
+.btn-whatsapp
+{
+    background-color: #4dc247;
+}
