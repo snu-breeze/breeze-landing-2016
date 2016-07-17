@@ -5503,7 +5503,7 @@ a.list-group-item.active > .badge,
 .navbar {
     font-size: 16px;
     min-height: 53px;
-    margin-bottom: 30px;
+    margin-bottom: 5px;
     border: none;
     border-radius: 6px;
 }
@@ -11286,9 +11286,8 @@ div.dark_rounded #pp_full_res .pp_inline,div.dark_square #pp_full_res .pp_inline
 @import "content2-9.css";
 @import "content2-10.css";
 
-    .col {
-        margin: 0px 10px;
-        padding: 20px;
+    .pad {
+        padding: 1px;
     }
 
     .wrapper.grey {
@@ -11571,12 +11570,8 @@ div.dark_rounded #pp_full_res .pp_inline,div.dark_square #pp_full_res .pp_inline
     }
 
     .wrapper.image .bg2 {
-        background-image: url(../images/breeze.jpg);
-        background-repeat: no-repeat;
-        background-position: center bottom;
+        background: url(../images/breeze.jpg) no-repeat bottom center scroll;
         background-size: cover;
-        background-attachment: scroll;
-        background-color: rgba(0, 0, 0, 0);
         -webkit-filter: hue-rotate(0deg);
         filter: hue-rotate(0deg);
         /*background: url(../images/picture2.jpg) no-repeat scroll 50% bottom / cover  rgba(0, 0, 0, 0);*/
@@ -12761,14 +12756,14 @@ div.dark_rounded #pp_full_res .pp_inline,div.dark_square #pp_full_res .pp_inline
         padding: 60px 0 60px 0;
         z-index: 100;
         position: relative;
-        background-color: #ffffff;
+        background-color: #e4e4e4;
     }
 
     .content-block-nopad {
         width: 100%;
         z-index: 100;
         position: relative;
-        background-color: #ffffff;
+        background-color: #e4e4e4   ;
     }
 
 
@@ -14018,12 +14013,33 @@ div.dark_rounded #pp_full_res .pp_inline,div.dark_square #pp_full_res .pp_inline
     }
 
 .breeze-logo{
-    width: 75%;
+    width: 85%;
     -webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(5px 5px 5px #222);
 }
 
 .breeze-subtitle{
     font-weight: normal;
-    text-shadow: 5px 5px 5px #222;
+    text-shadow: 2px 2px 2px #222;
+}
+
+.height-100 {
+    height: 100%;
+    
+}
+
+.contact {
+    padding:2px;
+}
+
+body > :not(.pace),body:before,body:after {
+  -webkit-transition:opacity .4s ease-in-out;
+  -moz-transition:opacity .4s ease-in-out;
+  -o-transition:opacity .4s ease-in-out;
+  -ms-transition:opacity .4s ease-in-out;
+  transition:opacity .4s ease-in-out
+}
+
+body:not(.pace-done) > :not(.pace),body:not(.pace-done):before,body:not(.pace-done):after {
+  opacity:0
 }
