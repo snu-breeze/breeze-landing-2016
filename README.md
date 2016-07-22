@@ -7,6 +7,7 @@
 Breeze is Shiv Nadar University's annual techno-culturo fest.
 
 ## Link
+<<<<<<< HEAD
 Check it out on [http://snu-breeze.com](http://snu-breeze.com) !
 
 ## [Team](https://github.com/snu-breeze/breeze-landing/graphs/contributors)
@@ -14,6 +15,14 @@ Check it out on [http://snu-breeze.com](http://snu-breeze.com) !
 [![Rohan Verma](https://avatars3.githubusercontent.com/u/952036?v=3&s=460)](https://github.com/rhnvrm) | [![Karan Sharma](https://avatars2.githubusercontent.com/u/5689132?v=3&s=460)](https://github.com/mr-karan) | [![Vishal Gauba](https://avatars2.githubusercontent.com/u/9962648?v=3&s=460)](https://github.com/flamefractal) | [![Sarthak Mittal](https://avatars1.githubusercontent.com/u/15452197?v=3&s=460)](https://github.com/Sarthak-Mittal) | [![Harshit Budhraja](https://avatars3.githubusercontent.com/u/16652667?v=3&s=460)](https://github.com/harshitbudhraja)
 ---|---|---|---|---
 [Rohan Verma](https://github.com/rhnvrm) | [Karan Sharma](https://github.com/mr-karan) | [Vishal Gauba](https://github.com/flamefractal) | [Sarthak Mittal](https://github.com/Sarthak-Mittal) | [Harshit Budhraja](https://github.com/harshitbudhraja)
+=======
+Check it out [here](http://snu-breeze.com) !
+
+## Team
+[![Rohan Verma](https://avatars3.githubusercontent.com/u/952036?v=3&s=460)](https://github.com/rhnvrm) | [![Karan Sharma](https://avatars2.githubusercontent.com/u/5689132?v=3&s=460)](https://github.com/mr-karan) | [![Vishal Gauba](https://avatars2.githubusercontent.com/u/9962648?v=3&s=460)](https://github.com/flamefractal) | [![Sheikh Araf](https://avatars1.githubusercontent.com/u/7028838?v=3&s=460)](https://github.com/arafsheikh) | [![Harshit Budhraja](https://avatars3.githubusercontent.com/u/16652667?v=3&s=460)](https://github.com/harshitbudhraja)
+---|---|---|---|---
+[Rohan Verma](https://github.com/rhnvrm) | [Karan Sharma](https://github.com/mr-karan) | [Vishal Gauba](https://github.com/flamefractal) | [Sheikh Araf](https://github.com/arafsheikh) | [Harshit Budhraja](https://github.com/harshitbudhraja)
+>>>>>>> 2edb4209dfa756b59edeff9986428bfd0da4c245
 
 ## Screenshot
 <img src="images/screener_website.png" width="400">
