@@ -11,9 +11,9 @@ Check it out on [http://snu-breeze.com](http://snu-breeze.com) !
 
 ## [Team](https://github.com/snu-breeze/breeze-landing/graphs/contributors)
 
-[![Rohan Verma](https://avatars3.githubusercontent.com/u/952036?v=3&s=460)](https://github.com/rhnvrm) | [![Karan Sharma](https://avatars2.githubusercontent.com/u/5689132?v=3&s=460)](https://github.com/mr-karan) | [![Vishal Gauba](https://avatars2.githubusercontent.com/u/9962648?v=3&s=460)](https://github.com/flamefractal) | [![Sarthak Mittal](https://avatars1.githubusercontent.com/u/15452197?v=3&s=460)](https://github.com/Sarthak-Mittal) | [![Harshit Budhraja](https://avatars3.githubusercontent.com/u/16652667?v=3&s=460)](https://github.com/harshitbudhraja)
+[![Rohan Verma](https://avatars3.githubusercontent.com/u/952036?v=3&s=460)](https://github.com/rhnvrm) | [![Karan Sharma](https://avatars2.githubusercontent.com/u/5689132?v=3&s=460)](https://github.com/mr-karan) | [![Vishal Gauba](https://avatars2.githubusercontent.com/u/9962648?v=3&s=460)](https://github.com/flamefractal) | [![Sarthak Mittal](https://avatars1.githubusercontent.com/u/15452197?v=3&s=460)](https://github.com/Sarthak-Mittal) | [![Harshit Budhraja](https://avatars3.githubusercontent.com/u/16652667?v=3&s=460)](https://github.com/harshitbudhraja) | [![Sai Anurag](https://avatars3.githubusercontent.com/u/17681360?v=3&s=460)](https://github.com/anuragsai97)
 ---|---|---|---|---
-[Rohan Verma](https://github.com/rhnvrm) | [Karan Sharma](https://github.com/mr-karan) | [Vishal Gauba](https://github.com/flamefractal) | [Sarthak Mittal](https://github.com/Sarthak-Mittal) | [Harshit Budhraja](https://github.com/harshitbudhraja)
+[Rohan Verma](https://github.com/rhnvrm) | [Karan Sharma](https://github.com/mr-karan) | [Vishal Gauba](https://github.com/flamefractal) | [Sarthak Mittal](https://github.com/Sarthak-Mittal) | [Harshit Budhraja](https://github.com/harshitbudhraja) | [Sai Anurag](https://github.com/anuragsai97)
 
 ## Screenshot
 <img src="images/screener_website.png" width="400">
